@@ -68,4 +68,15 @@ body {
   .wrapper {
     width: 600px;
   }
+
+  #sidebar {
+   float: none;
+   margin: 2rem 3rem;
+  }
+  
+  #main-content {
+    /* Positioning */
+    float: none;
+    margin: 2rem 3rem;
+  }
 }
